@@ -40,7 +40,6 @@ export function Header() {
               <Code2 className="w-5 h-5 text-primary-foreground" />
             </div>
             <span className="font-bold text-xl">SaaS Forge Kit</span>
-            <Badge variant="secondary" className="ml-2">Blueprint</Badge>
           </div>
           <nav className="flex items-center gap-6">
             <a href="#features" className="text-sm font-medium hover:text-primary transition-colors">
